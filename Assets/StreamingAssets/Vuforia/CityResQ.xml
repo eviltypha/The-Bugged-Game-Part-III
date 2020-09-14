@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TheCityResQ_targetImage" size="1.000000 1.414619" />
+    <ImageTarget name="Cube_TargetImage" size="1.000000 1.414619" />
+  </Tracking>
+</QCARConfig>
